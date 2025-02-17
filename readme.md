@@ -93,7 +93,6 @@ This project performs an **in-depth EDA** on sales data to uncover key insights 
 ## **7️⃣ Correlation Heatmap**  
 📌 Understanding relationships between different sales factors.  
 
-<!-- ![Correlation Heatmap](./plots/correlation_heatmap.png)   -->
 
 ### **📌 Inferences:**  
 - **Sales and Order Date exhibit strong correlation, highlighting seasonal effects.**  
