@@ -21,7 +21,6 @@ This project performs an **in-depth EDA** on sales data to uncover key insights 
 ## **1️⃣ Sales Performance Over Time**  
 📌 Analyzing sales trends over time to identify growth patterns.  
 
-<!-- ![Sales Performance](./plots/sales_trend.png)   -->
 
 ### **📌 Inferences:**  
 - The **sales trend shows an overall upward trajectory**, indicating business growth.  
@@ -33,7 +32,6 @@ This project performs an **in-depth EDA** on sales data to uncover key insights 
 ## **2️⃣ Regional Sales Distribution**  
 📌 Examining sales performance across different regions.  
 
-<!-- ![Regional Sales](./plots/region_sales.png)   -->
 
 ### **📌 Inferences:**  
 - The **East and West regions have the highest sales**, contributing to over 60% of total revenue.  
@@ -45,7 +43,6 @@ This project performs an **in-depth EDA** on sales data to uncover key insights 
 ## **3️⃣ Customer Segmentation Analysis**  
 📌 Understanding customer groups based on sales contribution.  
 
-<!-- ![Customer Segmentation](./plots/customer_segment.png)   -->
 
 ### **📌 Inferences:**  
 - **Consumer segment leads in sales**, followed by Corporate, with Home Office being the lowest.  
@@ -57,7 +54,6 @@ This project performs an **in-depth EDA** on sales data to uncover key insights 
 ## **4️⃣ Shipping Analysis**  
 📌 Evaluating the impact of shipping methods on sales performance.  
 
-<!-- ![Shipping Modes](./plots/shipping_modes.png)   -->
 
 ### **📌 Inferences:**  
 - **Standard Class is the most preferred shipping mode**, while **Same Day has the least usage**.  
@@ -69,7 +65,6 @@ This project performs an **in-depth EDA** on sales data to uncover key insights 
 ## **5️⃣ Product Category Performance**  
 📌 Analyzing sales distribution by product categories.  
 
-<!-- ![Product Categories](./plots/product_sales.png)   -->
 
 ### **📌 Inferences:**  
 - **Office Supplies and Technology contribute to the highest revenue**.  
@@ -81,7 +76,6 @@ This project performs an **in-depth EDA** on sales data to uncover key insights 
 ## **6️⃣ Peak Sales Periods**  
 📌 Identifying periods of high sales activity.  
 
-<!-- ![Sales Peaks](./plots/sales_peaks.png)   -->
 
 ### **📌 Inferences:**  
 - **Sales peak around the holiday season (November & December).**  
